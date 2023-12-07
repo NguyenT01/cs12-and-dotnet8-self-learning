@@ -1,0 +1,15 @@
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.exe
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.deps.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.runtimeconfig.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\bin\Debug\net8.0\HandlingExceptions.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.AssemblyInfoInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.AssemblyInfo.cs
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.sourcelink.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\refint\HandlingExceptions.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\HandlingExceptions.genruntimeconfig.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\HandlingExceptions\obj\Debug\net8.0\ref\HandlingExceptions.dll

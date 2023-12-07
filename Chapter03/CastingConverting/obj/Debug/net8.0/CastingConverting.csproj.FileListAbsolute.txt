@@ -1,0 +1,15 @@
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.exe
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.deps.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.runtimeconfig.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.AssemblyInfoInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.AssemblyInfo.cs
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.csproj.CoreCompileInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.sourcelink.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\refint\CastingConverting.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.genruntimeconfig.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\CastingConverting\obj\Debug\net8.0\ref\CastingConverting.dll

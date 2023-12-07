@@ -1,0 +1,15 @@
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\bin\Debug\net8.0\Operators.exe
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\bin\Debug\net8.0\Operators.deps.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\bin\Debug\net8.0\Operators.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\bin\Debug\net8.0\Operators.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\refint\Operators.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter03\Operators\obj\Debug\net8.0\ref\Operators.dll
