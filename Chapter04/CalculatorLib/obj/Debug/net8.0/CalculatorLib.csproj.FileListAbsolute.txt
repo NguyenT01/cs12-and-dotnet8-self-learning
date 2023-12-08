@@ -1,0 +1,12 @@
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\bin\Debug\net8.0\CalculatorLib.deps.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\bin\Debug\net8.0\CalculatorLib.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\bin\Debug\net8.0\CalculatorLib.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfo.cs
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.sourcelink.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\refint\CalculatorLib.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\CalculatorLib.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter04\CalculatorLib\obj\Debug\net8.0\ref\CalculatorLib.dll
