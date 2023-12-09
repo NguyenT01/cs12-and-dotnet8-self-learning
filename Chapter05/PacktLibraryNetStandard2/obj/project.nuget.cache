@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "efvkPh3PDc7x82reygGhRwN2B5NLcXw8Oy40W+/uJWUevWWUgEWO7Mc3FBFkh+J911MqJL7VPaMEwXSbZtWK6w==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\cs12-and-dotnet8-self-learning\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trans\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\trans\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

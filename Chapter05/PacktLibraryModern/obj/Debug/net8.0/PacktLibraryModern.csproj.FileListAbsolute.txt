@@ -1,0 +1,12 @@
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.deps.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfoInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfo.cs
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.sourcelink.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll

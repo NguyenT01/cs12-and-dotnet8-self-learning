@@ -1,0 +1,11 @@
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.deps.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfo.cs
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.sourcelink.json
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+D:\Github\cs12-and-dotnet8-self-learning\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb
